@@ -1,0 +1,11 @@
+# Rust build output
+/kiban-rust/target/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
